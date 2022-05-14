@@ -20,6 +20,8 @@
   <url>
     <loc>https://example.com/post/git/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/post/latexx/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
@@ -31,6 +33,8 @@
     <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/secondweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/firstweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
