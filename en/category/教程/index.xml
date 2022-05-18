@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 | Academic</title>
+    <link>https://example.com/en/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="https://example.com/en/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>教程</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 18:20:08 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>教程</title>
+      <link>https://example.com/en/category/%E6%95%99%E7%A8%8B/</link>
+    </image>
+    
+    <item>
+      <title>Git</title>
+      <link>https://example.com/en/post/git/</link>
+      <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
+      <guid>https://example.com/en/post/git/</guid>
+      <description>&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+&lt;p&gt;Git has become the world standard for version control. So what is it?&lt;/p&gt;
+&lt;p&gt;Git is a distributed version control system. This means that the local clone of the project is a full version control repository. Full-featured local repositories make it easier to work offline or in a remote location. Developers commit their work locally, and then synchronize their copy of the repository with the copy on the server. This paradigm differs from centralized version control systems, where clients must synchronize code with the server before creating a new version of the code.&lt;/p&gt;
+&lt;p&gt;The flexibility and popularity of Git make it a great choice for any team. Many developers and college students are already familiar with using Git. The Git user community has created many resources for training Git developers and developers, which makes it easier to get help if necessary. Almost every development environment has Git support, and Git command-line tools run on every major operating system.&lt;/p&gt;
+&lt;h2 id=&#34;git-basics&#34;&gt;Git Basics&lt;/h2&gt;
+&lt;p&gt;Every time a job is saved, Git creates a commit. A commit is a snapshot of all files at a given time. If the file has not been changed from one commit to the next, Git uses the previously saved file. This project is different from other systems that store the original version of the file, and at the same time records of the differences are saved.&lt;/p&gt;
+&lt;p&gt;Commits create links to other commits, forming a timeline of the development history. You can return the code to the previous commit, check how the files changed from one commit to the next, and view information, for example, where and when changes were made. Commits are defined in Git by a unique cryptographic hash of the commit content. Since everything is hashed, it is impossible to make changes, lose information or damage files without detecting them.&lt;/p&gt;
+&lt;h2 id=&#34;branches&#34;&gt;Branches&lt;/h2&gt;
+&lt;p&gt;Each developer saves changes in their own local code repository. As a result, there may be many different changes based on a single commit. Git provides the means to isolate changes and then merge them. Branches, which are lightweight pointers to the tasks being performed, manage this separation. After completing the work created in the branch, this branch can be merged back into the main branch of the team (or trunk).&lt;/p&gt;
+&lt;h2 id=&#34;files-and-commits&#34;&gt;Files and Commits&lt;/h2&gt;
+&lt;p&gt;Files in Git are in one of three states: modified, intermediate, or committed. When the file is changed for the first time, the changes exist only in the working directory. They are not yet part of the commit or development history. The developer must place the modified files for inclusion in the commit. The staging area contains all the changes that are included in the next commit. When the developer is satisfied with the intermediate files, they are packaged as a commit with a message describing the changes. This commit will become part of the development history.&lt;/p&gt;
+&lt;p&gt;Intermediate storage allows developers to choose which file changes should be saved in a commit in order to break large changes into a series of small commits. By reducing the scope of commits, it is easier to view the commit log to find certain changes in files.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-git&#34;&gt;Advantages of Git&lt;/h2&gt;
+&lt;h3 id=&#34;simultaneous-development&#34;&gt;Simultaneous development&lt;/h3&gt;
+&lt;p&gt;Each has its own local copy of the code and can work simultaneously with its own branches. Git works offline, since almost every operation is local.&lt;/p&gt;
+&lt;h3 id=&#34;quick-releases&#34;&gt;Quick Releases&lt;/h3&gt;
+&lt;p&gt;Branches provide flexible and simultaneous development. The main branch contains stable and high-quality code from which it is released. Component branches contain work in progress, which are merged into the main branch after completion. Separating the release branch from the development environment simplifies stable code management and speeds up the delivery of updates.&lt;/p&gt;
+&lt;h3 id=&#34;built-in-integration&#34;&gt;Built-in integration&lt;/h3&gt;
+&lt;p&gt;Because of its popularity, Git is integrated into most tools and products. Every major integrated development environment has built-in Git support, and many tools support continuous integration, continuous deployment, automated testing, tracking of work items, metrics, and integration of reporting functions with Git. This integration simplifies the day-to-day workflow.&lt;/p&gt;
+&lt;h3 id=&#34;support-for-trusted-communities&#34;&gt;Support for trusted communities&lt;/h3&gt;
+&lt;p&gt;Git is open source and has become the de facto standard for version control, so there are not enough funds and resources for workgroups. The amount of community support for Git compared to other version control systems makes it easier to get help when needed.&lt;/p&gt;
+&lt;p&gt;###Git works with any command&lt;/p&gt;
+&lt;p&gt;Using Git with the source code management tool allows you to increase the efficiency of the group&amp;rsquo;s work by applying policies that automate processes and improve visibility and traceability of work. The team can match individual tools for versioning, tracking work items, and continuous integration and deployment. In addition, they can choose a solution like GitHub or Azure DevOps that supports all these tasks in one place.&lt;/p&gt;
+&lt;h3 id=&#34;pull-requests&#34;&gt;Pull Requests&lt;/h3&gt;
+&lt;p&gt;Use pull requests to discuss code changes with the team before merging them into the main branch. Discussions in pull requests are valuable for ensuring code quality and increasing knowledge in the group. platforms such as GitHub and Azure DevOps offer ample opportunities for requests to include changes made, when developers can view changes in files, leave comments, check commits, view builds and vote for code approval.&lt;/p&gt;
+&lt;h3 id=&#34;branching-policies&#34;&gt;Branching Policies&lt;/h3&gt;
+&lt;p&gt;Teams can be configured by GitHub and Azure DevOps to enforce consistent workflows and processes in a group. They can set up branch policies to make sure pull requests meet the requirements before completion. Branching policies protect important branches by preventing direct push notifications, requiring reviewers, and ensuring clean builds.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Now you have figured out the basics of version control, got an idea of Git and found out why software development teams should use this system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/en/post/markdown/</link>
+      <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
+      <guid>https://example.com/en/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a text markup language for documents. It was invented in 2004 by blogger John Gruber and Internet activist Aaron Schwartz to quickly format articles. Their language requirements were as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The simpler the better.&lt;/li&gt;
+&lt;li&gt;Documents with this markup can be translated into a beautifully formatted view, as on a web page.&lt;/li&gt;
+&lt;li&gt;The source text of the material should remain readable even without conversion to a web page.&lt;/li&gt;
+&lt;li&gt;As a result, they have a simple language that is still actively used.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The point of the markdown is that you make the markup of your document with minimal effort, and already some other plugin or program turns your markup into a final document - for example, HTML. But it is possible not in HTML, but in PDF or something else. Markdown is like a language for other programs to form documents based on your text.&lt;/p&gt;
+&lt;p&gt;The only thing you may need is to adjust fonts, margins and colors in this plugin to make the result look beautiful. You set it up once, and then you quickly write a lot of materials that will turn into ready-made articles with good markup at the output.&lt;/p&gt;
+&lt;h2 id=&#34;how-does-this-magic-work&#34;&gt;How does this magic work&lt;/h2&gt;
+&lt;p&gt;If we just write the text and mark it up using Markdown, then it will remain text with different special characters. To make the result look like in the screenshot above, use special editors, plugins or programs that support this markup language.&lt;/p&gt;
+&lt;p&gt;It works like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The program takes the text and looks to see if there is this markup in it.&lt;/li&gt;
+&lt;li&gt;If there is — applies the desired design rule to the desired text fragment and displays it beautifully. If necessary, she will substitute a picture, make a link and design the list herself.&lt;/li&gt;
+&lt;li&gt;If there is no markup, it outputs the content simply as text.&lt;/li&gt;
+&lt;li&gt;This does not work in every editor — if you highlight text with asterisks in Word, then it will remain text with asterisks, without italics or bold design. But almost all editors understand when text marked with a markdown is inserted into them. They then immediately select the necessary fragments, make headlines and insert pictures.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;why-use-markdown&#34;&gt;Why use Markdown&lt;/h2&gt;
+&lt;p&gt;There are several reasons.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If you need a simple text design without frills or you need to quickly prepare the material for publication without complex layout.&lt;/li&gt;
+&lt;li&gt;If you are making a blog or other static site where you want to post your texts with a concise design.&lt;/li&gt;
+&lt;li&gt;You want to write beautiful messages in WhatsApp or Telegram.&lt;/li&gt;
+&lt;li&gt;You are a programmer and write documentation for your project on GitHub&lt;/li&gt;
+&lt;li&gt;Your own telegram secretary: we do it together&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;But in all these cases, you need one thing — to make a minimal layout of the text so that it looks neat and so that it can be read without special programs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>https://example.com/en/post/report/</link>
+      <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
+      <guid>https://example.com/en/post/report/</guid>
+      <description>&lt;p&gt;The content of the main elements of the report:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Title page. The first sheet of work is drawn up strictly according to the pattern that is usually given in the manuals on your subject. It is not just required to specify elements such as the name of the educational institution, the type of work and information about the performer, but also to arrange them in strict accordance with the standards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Abstract. The abstract is actually a summary of your entire report and contains a number of statistical information. In it, you need to specify the number of parts, pages of the work, illustrations, appendices, tables, used literary sources and appendices. Here is also a list of the keywords of the work and the actual text of the abstract. The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation. In the practice of universities, the abstract is usually not included in the reports on laboratory work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction. In the introduction of a typical laboratory work, the goals of the study and the tasks that will help achieve the goals are usually prescribed. At the same time, there are works in which students become real pioneers. Have you ever experienced at least once a feeling of extreme curiosity and impatience during laboratory work? To feel that in just a couple of minutes you will find the answer to a question that no one has ever found an answer to? It is for such studies that a detailed introduction is written with proof of the relevance and novelty of the topic being studied. In order to really conduct research in an area in which, as they say, no human foot has yet set foot, in the introduction you will need to give an assessment of the current state of the problem under consideration and justify the need for its solution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The main part. Since different universities and disciplines have their own subtleties of laboratory work, the content of the main part is described in detail in the relevant manuals. It is important that this section of the work reflects its essence, describes the methodology and results of the work done. The main part prescribes the following elements:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;objectives of the study;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;tasks that will help you achieve your goals;&lt;/li&gt;
+&lt;li&gt;the progress of the work, which describes the actions performed;&lt;/li&gt;
+&lt;li&gt;other sections provided by methodological materials on the discipline being studied.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conclusion. In this part of the work, you will need to draw conclusions from the results obtained during the laboratory work. To do this, evaluate how fully the tasks have been completed. Other elements may be present in complex works, for example, recommendations for further application of the results of the work carried out.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/en/post/scientificprogramminglanguages/</link>
+      <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
+      <guid>https://example.com/en/post/scientificprogramminglanguages/</guid>
+      <description>&lt;h2 id=&#34;programming-in-science-relevance-and-relevance&#34;&gt;Programming in science: relevance and relevance.&lt;/h2&gt;
+&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
+&lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility. Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries. A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;h2 id=&#34;specializations&#34;&gt;Specializations&lt;/h2&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively. Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#. In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions.&lt;/p&gt;
+&lt;h2 id=&#34;the-future-of-the-programmer-scientist-profession&#34;&gt;The future of the programmer-scientist profession&lt;/h2&gt;
+&lt;p&gt;Programming moves science, which moves technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the XXI century: Microwave oven, mobile phone, 8-bit home computer. It depends on the programmer-scientist which peaks science will reach today and which of them will enter every home tomorrow. In the hands of a programmer-scientist there are tools not only for the development of industry, but also for improving the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to anticipate and prevent climatic, financial, humanitarian disasters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fifth week</title>
+      <link>https://example.com/en/post/fifthweek/</link>
+      <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
+      <guid>https://example.com/en/post/fifthweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have completed laboratory work No. 11 and No. 12, the topics of which were &amp;ldquo;Programming in the UNIX OS command processor. Branching and loops&amp;rdquo; and &amp;ldquo;Programming in the UNIX OS command processor. Advanced programming&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-no-12&#34;&gt;Laboratory work No. 12&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to learn the basics of programming in the UNIX OS shell, to learn how to write more complex command files using logical control structures and loops.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write a batch file implementing a simplified semaphore mechanism. The batch file should wait for some time t1
+for the resource to be released, giving a message about it, and after waiting for its release, use
+it for some time t2&amp;lt;&amp;gt;t1, also giving information that
+the resource is being used by the corresponding batch file (process). Run
+a batch file in one virtual terminal in the background, redirecting
+its output to another (&amp;gt; /dev/tty#, where # is the number of the terminal to which it is redirected
+output), in which this file is also running, but not in the background, but in privileged
+mode. Modify the program so that there is a possibility of interaction of three
+or more processes.&lt;/li&gt;
+&lt;li&gt;Implement the man command using a batch file. Examine the contents of the /usr/share/man/man1 directory. It contains archives of text files containing
+help for most of the programs and commands installed in the system. Each archive
+can be opened with the less command immediately after viewing the contents of the help. The command
+file should receive the command name as a command line argument and as
+the result is to issue a help about this command or a message about the absence of help
+if the corresponding file is not in the man1 directory.&lt;/li&gt;
+&lt;li&gt;Using the built-in variable $RANDOM, write a batch file that generates a random sequence of letters of the Latin alphabet&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;laboratory-work-no-11&#34;&gt;Laboratory work No. 11&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to learn the basics of programming in the UNIX OS shell, learn how to write more complex command files using logical control structures and loops.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Using the getopts grep commands, write a command file that analyzes the command line with the keys:
+– -iinputfile — read data from the specified file;
+– -ooutputfile — output data to the specified file;
+– -template — specify the template for the search;
+– -C — distinguish between large and small letters;
+– -n — output line numbers.
+and then searches in the specified file for the necessary strings defined by the -p key.&lt;/li&gt;
+&lt;li&gt;Write a program in C that enters a number and determines whether it is greater than zero, less than zero or equal to zero. Then the program terminates using the exit(n) function, passing information about the termination code to the shell. The batch file should call this program and, after analyzing it with the $? command, give a message about what number was entered.&lt;/li&gt;
+&lt;li&gt;Write a batch file that creates the specified number of files numbered sequentially from 1 to 𝑁 (for example, 1.tmp, 2.tmp, 3.tmp,4.tmp, etc.). The number of files to be created is passed to the command line arguments. The same batch file should be able to delete all files created by it (if they exist).&lt;/li&gt;
+&lt;li&gt;Write a batch file that uses the tar command to archive all files in the specified directory. Modify it so that only those files that were changed less than a week ago are packed (use the find command).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As a result, I learned how to write more complex command files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First week</title>
+      <link>https://example.com/en/post/firstweek/</link>
+      <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
+      <guid>https://example.com/en/post/firstweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Last week was a little different from the rest: I participated in the volleyball Spartakiad. Unfortunately, we lost, but it was still fun. If we talk about operating systems, then I did laboratory work No. 3 and No. 4, the topics of which were &amp;ldquo;Markdown&amp;rdquo; and &amp;ldquo;Fundamentals of the user interface with the Unix system at the command line level.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-3&#34;&gt;Laboratory work №3&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to learn how to design reports using the lightweight Markdown markup language. It was necessary to redo the reports on the 2nd laboratory work in the Markdown format. For convenience, I used Visual studio code. This program allows you to preview the file even with small errors. This slightly simplifies the process of creating reports and presentations.
+During the work, I got acquainted with the basic information about Markdown, and then I redid the report on the 2nd laboratory work.&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-4&#34;&gt;Laboratory work №4&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to acquire practical skills of user interaction with the system via the command line. In the course of my work, I remembered the commands that I studied on the Architecture of computing systems, and I spent carefree times in the 1st module. tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Determine the full name of your home directory. Further, the following exercises will be performed with respect to this catalog.&lt;/li&gt;
+&lt;li&gt;Follow these steps:
+&lt;ol&gt;
+&lt;li&gt;Go to the /tmp directory.&lt;/li&gt;
+&lt;li&gt;Display the contents of the /tmp directory. To do this, use the ls command
+various options. Explain the difference in the information displayed on the screen.&lt;/li&gt;
+&lt;li&gt;Determine if there is a subdirectory named cron in the /var/spool directory?&lt;/li&gt;
+&lt;li&gt;Go to your home directory and display its contents. Determine who is the owner of the files and subdirectories?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Follow these steps:
+&lt;ol&gt;
+&lt;li&gt;In the home directory, create a new directory named newdir.&lt;/li&gt;
+&lt;li&gt;In the ~/newdir directory, create a new directory named morefun.&lt;/li&gt;
+&lt;li&gt;In the home directory, create three new directories with the names with one command
+letters, memos, misk. Then delete these directories with one command.&lt;/li&gt;
+&lt;li&gt;Try deleting the previously created directory ~/newdir with the rm command. Check it out,
+whether the directory was deleted.&lt;/li&gt;
+&lt;li&gt;Delete the ~/newdir/morefun directory from the home directory. Check if
+the directory has been deleted.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Use the man command to determine which option of the ls command should be used to view the contents of not only the specified directory, but also the subdirectories included in it.&lt;/li&gt;
+&lt;li&gt;Using the man command, define a set of options for the ls command that allows you to sort by the time of the last change the output list of directory contents
+with an expanded description of files.&lt;/li&gt;
+&lt;li&gt;Use the man command to view the description of the following commands: cd, pwd, mkdir,
+rmdir, rm. Explain the main options of these commands.&lt;/li&gt;
+&lt;li&gt;Using the information obtained using the history command, modify and execute several commands from the command buffer.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As a result, I learned how to make reports and presentations in Markdown format, as well as interact with the system via the command line&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fourth week</title>
+      <link>https://example.com/en/post/fourthweek/</link>
+      <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
+      <guid>https://example.com/en/post/fourthweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have completed laboratory work №9 and №10, the topics of which were &amp;ldquo;emacs text editor&amp;rdquo; and &amp;ldquo;Programming in a UNIX command processor. Command files&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-9&#34;&gt;Laboratory work №9&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to get acquainted with the Linux operating system. Get practical skills working with the Emacs editor.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Created a file by calling emacs.&lt;/li&gt;
+&lt;li&gt;Performed various manipulations with the text in the file (copying, cutting, moving lines, etc.).&lt;/li&gt;
+&lt;li&gt;Played with the functionality of the editor.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;laboratory-work-10&#34;&gt;Laboratory work №10&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to study the basics of programming in the UNIX/Linux OS shell. Learn how to write small batch files.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write a script that, at startup, will make a backup copy of itself (that is, the file containing its source code) to another backup directory in your home directory. In this case, the file must be archived by one of the archivers to choose from zip, bzip2 or tar. You need to find out how to use archiving commands by studying the help.&lt;/li&gt;
+&lt;li&gt;Write an example of a command file that processes any arbitrary number of command-line arguments, including more than ten. For example, a script can print out the values of all passed arguments sequentially.&lt;/li&gt;
+&lt;li&gt;Write a command file analogous to the ls command (without using this command itself and the dir command). It is required that it provides information about the desired directory and displays information about the possibilities of accessing files in this directory.&lt;/li&gt;
+&lt;li&gt;Write a command file that receives as a command-line argument the file format (.txt, .doc, .jpg, .pdf, etc.) and calculates the number of such files in the specified directory. The path to the directory is also passed as a command line argument.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As a result, I got acquainted with the emacs text editor, and also learned how to write simple command files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second week</title>
+      <link>https://example.com/en/post/secondweek/</link>
+      <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
+      <guid>https://example.com/en/post/secondweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have completed laboratory work №5 and №6, the topics of which were &amp;ldquo;Linux file system Analysis&amp;rdquo; and &amp;ldquo;File Search. I/O redirection. View running processes&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-5&#34;&gt;Laboratory work №5&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to familiarize with the Linux file system, its structure, names and contents of directories. Acquisition of practical skills in the use of commands for working with files and directories, process management (and work), checking disk usage and file system maintenance.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Follow all the examples given in the theory.&lt;/li&gt;
+&lt;li&gt;Various manipulations with files and directories (copying, cutting, renaming, etc.).&lt;/li&gt;
+&lt;li&gt;Briefly describe mount, fsck, mkfs,&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;laboratory-work-6&#34;&gt;Laboratory work №6&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to familiarize with the tools for searching files and filtering text data. Acquisition of practical skills: process management (and tasks), disk usage verification and file system maintenance.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Study the find and grep commands and their application in practice.&lt;/li&gt;
+&lt;li&gt;Running programs in the background.&lt;/li&gt;
+&lt;li&gt;Study the kill command and apply it to complete the process.&lt;/li&gt;
+&lt;li&gt;Using output-input redirection.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As a result, I became more familiar with the Linux file system, its structure, names and contents of directories, and also acquired practical skills: managing processes (and tasks), checking disk usage and maintaining file systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third week</title>
+      <link>https://example.com/en/post/thirdweek/</link>
+      <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
+      <guid>https://example.com/en/post/thirdweek/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Over the past week, I have completed lab work №7 and №8, the topics of which were &amp;ldquo;Midnight Commander Command Shell&amp;rdquo; and &amp;ldquo;vi Text Editor&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;laboratory-work-7&#34;&gt;Laboratory work №7&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to master the basic capabilities of the Midnight Commander command shell. Acquisition of practical skills in viewing directories and files; manipulations
+with them.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Studied and played with the MC menu.&lt;/li&gt;
+&lt;li&gt;Performed various actions with files in the built-in MC editor.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;laboratory-work-6&#34;&gt;Laboratory work №6&lt;/h2&gt;
+&lt;p&gt;The purpose of this laboratory was to familiarize with the tools for searching files and filtering text data. Acquisition of practical skills: process management (and tasks), disk usage verification and file system maintenance.&lt;/p&gt;
+&lt;p&gt;Tasks that I have completed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Studied the main features of the vi editor.&lt;/li&gt;
+&lt;li&gt;Performed various actions with the text in the editor.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As a result, I got to know Midnight Commander better, the editor built into it, as well as the vi editor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
