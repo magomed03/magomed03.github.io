@@ -4,84 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/"
+      href="https://magomed03.github.io/en/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://magomed03.github.io/ru/"
     /></url>
   <url>
-    <loc>https://example.com/ru/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/talk/example-talk/"
+      href="https://magomed03.github.io/en/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://magomed03.github.io/ru/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/ru/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/event/"
+      href="https://magomed03.github.io/en/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/ru/tag/os/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/en/tag/os/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/os/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/project/os/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/en/project/os/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/project/os/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/project/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/en/project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/project/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/tags/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/en/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://magomed03.github.io/ru/event/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -94,104 +44,154 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/tag/c/</loc><lastmod>2022-05-18T13:03:04+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/tag/os/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/tag/c/"
+      href="https://magomed03.github.io/en/tag/os/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/c/"
+      href="https://magomed03.github.io/ru/tag/os/"
     /></url>
   <url>
-    <loc>https://example.com/ru/project/c&#43;&#43;/</loc><lastmod>2022-05-18T13:03:04+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/project/os/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/project/c&#43;&#43;/"
+      href="https://magomed03.github.io/en/project/os/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/c&#43;&#43;/"
+      href="https://magomed03.github.io/ru/project/os/"
     /></url>
   <url>
-    <loc>https://example.com/ru/tag/academic/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/project/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/tag/academic/"
+      href="https://magomed03.github.io/en/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
+      href="https://magomed03.github.io/ru/project/"
     /></url>
   <url>
-    <loc>https://example.com/ru/categories/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/tags/</loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/categories/"
+      href="https://magomed03.github.io/en/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/categories/"
+      href="https://magomed03.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://example.com/ru/category/demo/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-18T13:03:16+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/category/demo/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/demo/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/post/git/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/tag/c/</loc><lastmod>2022-05-18T13:03:04+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/git/"
+      href="https://magomed03.github.io/en/tag/c/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/git/"
+      href="https://magomed03.github.io/ru/tag/c/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/markdown/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/project/c&#43;&#43;/</loc><lastmod>2022-05-18T13:03:04+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/markdown/"
+      href="https://magomed03.github.io/en/project/c&#43;&#43;/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markdown/"
+      href="https://magomed03.github.io/ru/project/c&#43;&#43;/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/tag/academic/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/"
+      href="https://magomed03.github.io/en/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://magomed03.github.io/ru/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/scientificprogramminglanguages/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/categories/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/scientificprogramminglanguages/"
+      href="https://magomed03.github.io/en/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/scientificprogramminglanguages/"
+      href="https://magomed03.github.io/ru/categories/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/report/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/category/demo/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/report/"
+      href="https://magomed03.github.io/en/category/demo/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/report/"
+      href="https://magomed03.github.io/ru/category/demo/"
+    /></url>
+  <url>
+    <loc>https://magomed03.github.io/ru/post/git/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://magomed03.github.io/en/post/git/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://magomed03.github.io/ru/post/git/"
+    /></url>
+  <url>
+    <loc>https://magomed03.github.io/ru/post/markdown/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://magomed03.github.io/en/post/markdown/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://magomed03.github.io/ru/post/markdown/"
+    /></url>
+  <url>
+    <loc>https://magomed03.github.io/ru/post/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://magomed03.github.io/en/post/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://magomed03.github.io/ru/post/"
+    /></url>
+  <url>
+    <loc>https://magomed03.github.io/ru/post/scientificprogramminglanguages/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://magomed03.github.io/en/post/scientificprogramminglanguages/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://magomed03.github.io/ru/post/scientificprogramminglanguages/"
+    /></url>
+  <url>
+    <loc>https://magomed03.github.io/ru/post/report/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://magomed03.github.io/en/post/report/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://magomed03.github.io/ru/post/report/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -204,134 +204,134 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/tag/%E5%BC%80%E6%BA%90/"
+      href="https://magomed03.github.io/en/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href="https://magomed03.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-06T18:20:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/category/%E6%95%99%E7%A8%8B/"
+      href="https://magomed03.github.io/en/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href="https://magomed03.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/secondweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/post/secondweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/secondweek/"
+      href="https://magomed03.github.io/en/post/secondweek/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/secondweek/"
+      href="https://magomed03.github.io/ru/post/secondweek/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/firstweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/post/firstweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/firstweek/"
+      href="https://magomed03.github.io/en/post/firstweek/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/firstweek/"
+      href="https://magomed03.github.io/ru/post/firstweek/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/fifthweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/post/fifthweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/fifthweek/"
+      href="https://magomed03.github.io/en/post/fifthweek/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/fifthweek/"
+      href="https://magomed03.github.io/ru/post/fifthweek/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/thirdweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/post/thirdweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/thirdweek/"
+      href="https://magomed03.github.io/en/post/thirdweek/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/thirdweek/"
+      href="https://magomed03.github.io/ru/post/thirdweek/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/fourthweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/post/fourthweek/</loc><lastmod>2022-05-06T17:46:50+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/post/fourthweek/"
+      href="https://magomed03.github.io/en/post/fourthweek/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/fourthweek/"
+      href="https://magomed03.github.io/ru/post/fourthweek/"
     /></url>
   <url>
-    <loc>https://example.com/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/slides/"
+      href="https://magomed03.github.io/en/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://magomed03.github.io/ru/slides/"
     /></url>
   <url>
-    <loc>https://example.com/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/slides/example/"
+      href="https://magomed03.github.io/en/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://magomed03.github.io/ru/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/publication-type/1/"
+      href="https://magomed03.github.io/en/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://magomed03.github.io/ru/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/publication/example/"
+      href="https://magomed03.github.io/en/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://magomed03.github.io/ru/publication/example/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/publication_types/"
+      href="https://magomed03.github.io/en/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://magomed03.github.io/ru/publication_types/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://magomed03.github.io/ru/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/en/publication/"
+      href="https://magomed03.github.io/en/publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://magomed03.github.io/ru/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

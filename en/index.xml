@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/en/</link>
-      <atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://magomed03.github.io/en/</link>
+      <atom:link href="https://magomed03.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://magomed03.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/en/</link>
+      <link>https://magomed03.github.io/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/en/talk/example-talk/</link>
+      <link>https://magomed03.github.io/en/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/en/talk/example-talk/</guid>
+      <guid>https://magomed03.github.io/en/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,27 +34,27 @@
     
     <item>
       <title>OS</title>
-      <link>https://example.com/en/project/os/</link>
+      <link>https://magomed03.github.io/en/project/os/</link>
       <pubDate>Wed, 18 May 2022 13:03:16 +0300</pubDate>
-      <guid>https://example.com/en/project/os/</guid>
+      <guid>https://magomed03.github.io/en/project/os/</guid>
       <description>&lt;p&gt;The Operation system is the best educational program.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://example.com/en/project/c&#43;&#43;/</link>
+      <link>https://magomed03.github.io/en/project/c&#43;&#43;/</link>
       <pubDate>Wed, 18 May 2022 13:03:04 +0300</pubDate>
-      <guid>https://example.com/en/project/c&#43;&#43;/</guid>
+      <guid>https://magomed03.github.io/en/project/c&#43;&#43;/</guid>
       <description>&lt;p&gt;Something about C++ language.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://example.com/en/post/git/</link>
+      <link>https://magomed03.github.io/en/post/git/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/en/post/git/</guid>
+      <guid>https://magomed03.github.io/en/post/git/</guid>
       <description>&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
 &lt;p&gt;Git has become the world standard for version control. So what is it?&lt;/p&gt;
 &lt;p&gt;Git is a distributed version control system. This means that the local clone of the project is a full version control repository. Full-featured local repositories make it easier to work offline or in a remote location. Developers commit their work locally, and then synchronize their copy of the repository with the copy on the server. This paradigm differs from centralized version control systems, where clients must synchronize code with the server before creating a new version of the code.&lt;/p&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/en/post/markdown/</link>
+      <link>https://magomed03.github.io/en/post/markdown/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/en/post/markdown/</guid>
+      <guid>https://magomed03.github.io/en/post/markdown/</guid>
       <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown is a text markup language for documents. It was invented in 2004 by blogger John Gruber and Internet activist Aaron Schwartz to quickly format articles. Their language requirements were as follows:&lt;/p&gt;
 &lt;ol&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Reports</title>
-      <link>https://example.com/en/post/report/</link>
+      <link>https://magomed03.github.io/en/post/report/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/en/post/report/</guid>
+      <guid>https://magomed03.github.io/en/post/report/</guid>
       <description>&lt;p&gt;The content of the main elements of the report:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -160,9 +160,9 @@
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/en/post/scientificprogramminglanguages/</link>
+      <link>https://magomed03.github.io/en/post/scientificprogramminglanguages/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/en/post/scientificprogramminglanguages/</guid>
+      <guid>https://magomed03.github.io/en/post/scientificprogramminglanguages/</guid>
       <description>&lt;h2 id=&#34;programming-in-science-relevance-and-relevance&#34;&gt;Programming in science: relevance and relevance.&lt;/h2&gt;
 &lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
 &lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
@@ -176,9 +176,9 @@
     
     <item>
       <title>Fifth week</title>
-      <link>https://example.com/en/post/fifthweek/</link>
+      <link>https://magomed03.github.io/en/post/fifthweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/en/post/fifthweek/</guid>
+      <guid>https://magomed03.github.io/en/post/fifthweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the past week, I have completed laboratory work No. 11 and No. 12, the topics of which were &amp;ldquo;Programming in the UNIX OS command processor. Branching and loops&amp;rdquo; and &amp;ldquo;Programming in the UNIX OS command processor. Advanced programming&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;laboratory-work-no-12&#34;&gt;Laboratory work No. 12&lt;/h2&gt;
@@ -224,9 +224,9 @@ and then searches in the specified file for the necessary strings defined by the
     
     <item>
       <title>First week</title>
-      <link>https://example.com/en/post/firstweek/</link>
+      <link>https://magomed03.github.io/en/post/firstweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/en/post/firstweek/</guid>
+      <guid>https://magomed03.github.io/en/post/firstweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Last week was a little different from the rest: I participated in the volleyball Spartakiad. Unfortunately, we lost, but it was still fun. If we talk about operating systems, then I did laboratory work No. 3 and No. 4, the topics of which were &amp;ldquo;Markdown&amp;rdquo; and &amp;ldquo;Fundamentals of the user interface with the Unix system at the command line level.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;laboratory-work-3&#34;&gt;Laboratory work №3&lt;/h2&gt;
@@ -271,9 +271,9 @@ rmdir, rm. Explain the main options of these commands.&lt;/li&gt;
     
     <item>
       <title>Fourth week</title>
-      <link>https://example.com/en/post/fourthweek/</link>
+      <link>https://magomed03.github.io/en/post/fourthweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/en/post/fourthweek/</guid>
+      <guid>https://magomed03.github.io/en/post/fourthweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the past week, I have completed laboratory work №9 and №10, the topics of which were &amp;ldquo;emacs text editor&amp;rdquo; and &amp;ldquo;Programming in a UNIX command processor. Command files&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;laboratory-work-9&#34;&gt;Laboratory work №9&lt;/h2&gt;
@@ -300,9 +300,9 @@ rmdir, rm. Explain the main options of these commands.&lt;/li&gt;
     
     <item>
       <title>Second week</title>
-      <link>https://example.com/en/post/secondweek/</link>
+      <link>https://magomed03.github.io/en/post/secondweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/en/post/secondweek/</guid>
+      <guid>https://magomed03.github.io/en/post/secondweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the past week, I have completed laboratory work №5 and №6, the topics of which were &amp;ldquo;Linux file system Analysis&amp;rdquo; and &amp;ldquo;File Search. I/O redirection. View running processes&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;laboratory-work-5&#34;&gt;Laboratory work №5&lt;/h2&gt;
@@ -329,9 +329,9 @@ rmdir, rm. Explain the main options of these commands.&lt;/li&gt;
     
     <item>
       <title>Third week</title>
-      <link>https://example.com/en/post/thirdweek/</link>
+      <link>https://magomed03.github.io/en/post/thirdweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/en/post/thirdweek/</guid>
+      <guid>https://magomed03.github.io/en/post/thirdweek/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the past week, I have completed lab work №7 and №8, the topics of which were &amp;ldquo;Midnight Commander Command Shell&amp;rdquo; and &amp;ldquo;vi Text Editor&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;laboratory-work-7&#34;&gt;Laboratory work №7&lt;/h2&gt;
@@ -356,9 +356,9 @@ with them.&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/en/slides/example/</link>
+      <link>https://magomed03.github.io/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/slides/example/</guid>
+      <guid>https://magomed03.github.io/en/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -481,9 +481,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/en/publication/example/</link>
+      <link>https://magomed03.github.io/en/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/example/</guid>
+      <guid>https://magomed03.github.io/en/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -500,9 +500,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/en/admin/config.yml</link>
+      <link>https://magomed03.github.io/en/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/admin/config.yml</guid>
+      <guid>https://magomed03.github.io/en/admin/config.yml</guid>
       <description></description>
     </item>
     

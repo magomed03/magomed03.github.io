@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 | Academic</title>
-    <link>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</link>
-      <atom:link href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://magomed03.github.io/ru/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="https://magomed03.github.io/ru/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 06 May 2022 18:20:08 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://magomed03.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>教程</title>
-      <link>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</link>
+      <link>https://magomed03.github.io/ru/category/%E6%95%99%E7%A8%8B/</link>
     </image>
     
     <item>
       <title>Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://magomed03.github.io/ru/post/git/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://magomed03.github.io/ru/post/git/</guid>
       <description>&lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
 &lt;p&gt;Git стал мировым стандартом для управления версиями. Так что же?&lt;/p&gt;
 &lt;p&gt;Git — это распределенная система управления версиями. Это означает, что локальный клон проекта является полным репозиторием управления версиями. Полнофункциональные локальные репозитории упрощают работу в автономном режиме или в удаленном расположении. Разработчики фиксируют свою работу локально, а затем синхронизируют свою копию репозитория с копией на сервере. Эта парадигма отличается от централизованных систем управления версиями, где клиенты должны синхронизировать код с сервером перед созданием новой версии кода.&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://magomed03.github.io/ru/post/markdown/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://magomed03.github.io/ru/post/markdown/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown&lt;/h2&gt;
 &lt;p&gt;Markdown — это язык текстовой разметки документов. Его придумали в 2004 году блогер Джон Грубер и интернет-активист Аарон Шварц, чтобы быстро форматировать статьи. Требования к языку у них были такие:&lt;/p&gt;
 &lt;ol&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Научные языки программирования</title>
-      <link>https://example.com/ru/post/scientificprogramminglanguages/</link>
+      <link>https://magomed03.github.io/ru/post/scientificprogramminglanguages/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/ru/post/scientificprogramminglanguages/</guid>
+      <guid>https://magomed03.github.io/ru/post/scientificprogramminglanguages/</guid>
       <description>&lt;h2 id=&#34;программирование-в-науке-актуальность-и-востребованность&#34;&gt;Программирование в науке: актуальность и востребованность.&lt;/h2&gt;
 &lt;p&gt;Программирование часто упоминают в прикладном контексте. Кажется, с его помощью создают только мобильные приложения, интернет-системы и спецэффекты для кино. Но первоначально программирование предназначалось для решения научных задач. Кроме того, программирование само — наука, узнать о которой будет полезно тем, кто решил связать карьеру с компьютерной разработкой.&lt;/p&gt;
 &lt;h2 id=&#34;общая-информация&#34;&gt;Общая информация&lt;/h2&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>Отчеты</title>
-      <link>https://example.com/ru/post/report/</link>
+      <link>https://magomed03.github.io/ru/post/report/</link>
       <pubDate>Fri, 06 May 2022 18:20:08 +0300</pubDate>
-      <guid>https://example.com/ru/post/report/</guid>
+      <guid>https://magomed03.github.io/ru/post/report/</guid>
       <description>&lt;p&gt;Содержание основных элементов отчета:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -136,9 +136,9 @@
     
     <item>
       <title>Вторая  неделя</title>
-      <link>https://example.com/ru/post/secondweek/</link>
+      <link>https://magomed03.github.io/ru/post/secondweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/ru/post/secondweek/</guid>
+      <guid>https://magomed03.github.io/ru/post/secondweek/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю я выполнил лабораторные работы №5 и №6, темы которых были &amp;ldquo;Анализ файловой системы Linux&amp;rdquo; и &amp;ldquo;Поиск файлов. Перенаправление ввода-вывода. Просмотр запущенных процессов&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;лабораторная-работа-5&#34;&gt;Лабораторная работа №5&lt;/h2&gt;
@@ -165,9 +165,9 @@
     
     <item>
       <title>Первая неделя</title>
-      <link>https://example.com/ru/post/firstweek/</link>
+      <link>https://magomed03.github.io/ru/post/firstweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/ru/post/firstweek/</guid>
+      <guid>https://magomed03.github.io/ru/post/firstweek/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Прошлая неделя немного отличалась от остальных: я участвовал в спартакиаде по волейболу. К сожаленю, мы проиграли, но все равно это было весело. Если же говорить об операционных системах, то я выполнил лабораторные работы №3 и №4, темы которых были &amp;ldquo;Markdown&amp;rdquo; и &amp;ldquo;Основы интерфейса взаимодействия пользователя с системой Unix на уровне командной строки&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;лабораторная-работа-3&#34;&gt;Лабораторная работа №3&lt;/h2&gt;
@@ -212,9 +212,9 @@ rmdir, rm. Поясните основные опции этих команд.&l
     
     <item>
       <title>Пятая неделя</title>
-      <link>https://example.com/ru/post/fifthweek/</link>
+      <link>https://magomed03.github.io/ru/post/fifthweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/ru/post/fifthweek/</guid>
+      <guid>https://magomed03.github.io/ru/post/fifthweek/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю я выполнил лабораторные работы №11 и №12, темы которых были &amp;ldquo;Программирование в командном процессоре ОС UNIX. Ветвления и циклы&amp;rdquo; и &amp;ldquo;Программирование в командном процессоре ОС UNIX. Расширенное программирование&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;лабораторная-работа-12&#34;&gt;Лабораторная работа №12&lt;/h2&gt;
@@ -260,9 +260,9 @@ rmdir, rm. Поясните основные опции этих команд.&l
     
     <item>
       <title>Третья неделя</title>
-      <link>https://example.com/ru/post/thirdweek/</link>
+      <link>https://magomed03.github.io/ru/post/thirdweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/ru/post/thirdweek/</guid>
+      <guid>https://magomed03.github.io/ru/post/thirdweek/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю я выполнил лабораторные работы №7 и №8, темы которых были &amp;ldquo;Командная оболочка Midnight Commander&amp;rdquo; и &amp;ldquo;Текстовой редактор vi&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;лабораторная-работа-7&#34;&gt;Лабораторная работа №7&lt;/h2&gt;
@@ -287,9 +287,9 @@ rmdir, rm. Поясните основные опции этих команд.&l
     
     <item>
       <title>Четвертая неделя</title>
-      <link>https://example.com/ru/post/fourthweek/</link>
+      <link>https://magomed03.github.io/ru/post/fourthweek/</link>
       <pubDate>Fri, 06 May 2022 17:46:50 +0300</pubDate>
-      <guid>https://example.com/ru/post/fourthweek/</guid>
+      <guid>https://magomed03.github.io/ru/post/fourthweek/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;За прошедшую неделю я выполнил лабораторные работы №9 и №10, темы которых были &amp;ldquo;Текстовой редактор emacs&amp;rdquo; и &amp;ldquo;Программирование в командном процессоре ОС UNIX. Командные файлы&amp;rdquo;.&lt;/p&gt;
 &lt;h2 id=&#34;лабораторная-работа-9&#34;&gt;Лабораторная работа №9&lt;/h2&gt;
